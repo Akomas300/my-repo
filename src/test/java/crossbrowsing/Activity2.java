@@ -38,6 +38,7 @@ public class Activity2 {
        By signUp=By.id("signupBtn");
        WebElement SignIn =driver.findElement(signUp);
        SignIn.click();
+        System.out.println("");
 
 
 
